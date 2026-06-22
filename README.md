@@ -1,6 +1,5 @@
 # swfu_undergraduate_homework.
 just homework's file in swfu.
-# Undergraduate Coursework
 
 > 西南林业大学 计算机科学与技术专业本科课程作业归档（2022–2026）
 
